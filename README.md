@@ -35,7 +35,7 @@ Admin can add as many events to the system.
 Every event will have the following attributes.
 
 Following are steps: 
-> eventName
+> eventName  
 > eventLocation 
 > eventTime 
 > eventType 
@@ -49,4 +49,3 @@ Following are steps:
 > eventContact# 
 > eventContactEmail
 > eventContactPhone 
-
