@@ -33,9 +33,8 @@ If the ticket status is set to true, then user can enter the event.
 
 Admin can add as many events to the system. 
 Every event will have the following attributes.
-
 Following are steps: 
- eventName  
+ eventName  <br />
  eventLocation 
  eventTime 
  eventType 
