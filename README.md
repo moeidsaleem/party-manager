@@ -35,4 +35,6 @@ Admin can add as many events to the system.
 Every event will have the following attributes.
 
 Following are steps 
->> A
+1. asdasd
+2. adasdas 
+3.a dasd
