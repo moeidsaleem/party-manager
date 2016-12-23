@@ -15,10 +15,6 @@ Every person must provide the following
 - userTwitterUrl
 - userGoogleUrl 
 - easyPaisaDetails
-- 
-
-
-
 
 ## Functionality 
 
