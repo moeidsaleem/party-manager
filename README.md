@@ -34,8 +34,6 @@ If the ticket status is set to true, then user can enter the event.
 
 ## Managing the Events 
 
-
-
 Admin can add as many events to the system. 
 Every event will have the following attributes.
 Following are steps
@@ -68,8 +66,7 @@ Also, users will be able to the profile of the guests coming to the event Except
 
 ### Ticket Generator 
 
-Ticket is generated based on the
-
-
-
+Ticket is generated for those who have already made booking and Ticket payment status is cleared. 
+The system generates a QR-Code that contain the information with a Ticket Unique ID, made up complex encrpytion upto 8 number.
+000-000-00
 
