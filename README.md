@@ -34,7 +34,19 @@ If the ticket status is set to true, then user can enter the event.
 Admin can add as many events to the system. 
 Every event will have the following attributes.
 
-Following are steps 
-1. asdasd
-2. adasdas 
-3.a dasd
+Following are steps: 
+> eventName
+> eventLocation 
+> eventTime 
+> eventType 
+> eventCover
+> eventRate_key :: eventRate_price *
+> eventUniqueId: 
+> eventDescription
+> eventFacebookUrl
+> eventTwitterUrl
+> eventAuthority_designation :: eventAuthority_name :: eventAuthority_phone 
+> eventContact# 
+> eventContactEmail
+> eventContactPhone 
+
