@@ -67,6 +67,25 @@ Also, users will be able to the profile of the guests coming to the event Except
 ### Ticket Generator 
 
 Ticket is generated for those who have already made booking and Ticket payment status is cleared. 
-The system generates a QR-Code that contain the information with a Ticket Unique ID, made up complex encrpytion upto 8 number.
-000-000-00
+The system generates a QR-Code that contain the information with a Ticket Unique ID, made up complex encrpytion upto 9 number.
+000-000-00-0
+
+first three Number will be eventId encrpted, 
+Next Three number will be User uId encrpyted, 
+next two number will be ticketSerial encrpyed.
+last number will show the status of the ticket. (paid or not) 
+
+
+# User Inteface (UI) 
+
+For User Inteface , the system will have the following panels. 
+1. Admin Panel  - Can CRUD Events,users.
+2. User Panel  - Can see event,purchase tickets. See transaction history. 
+3. Merchant Panel (Optional) 
+
+#### Admin Panel 
+See how admin will work. 
+##### Workflow 
+Admin login to the system-->Admin can CRURD users | Admin can CRUD Events | 
+
 
