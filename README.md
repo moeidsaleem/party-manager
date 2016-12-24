@@ -9,6 +9,7 @@ Every person must provide the following
 - email 
 - Address 
 - City 
+- Gendar
 - CnicNumber*
 - UniversityID*
 - userFacebookUrl
@@ -113,8 +114,9 @@ User sign up --> user login to the system -->  Manage Profile | Search event -->
 ### Ticketing 
 
 Whenever a event is created a eventId will be generated with it. Admin (creator) can CRUD Ticket types and set prices. 
+The ticket will be booked by the users(logged in) , and can purchase upto atleat <b> 10 Tickets on there Account per event. 
+Though for couple tickets maximum limit 3 is allowed.
 
-
-##### 
-
+Once the ticket is confirmed a QR-Code with confirmation id will be genarated. Confirmation id will hold details of the userDetails, eventDetails and TicketInformation. 
+The QR Scanner will post the request to the server where POST Will be handled in a way that system will search for the ConfirmationLog if the id exist. 
 
