@@ -83,9 +83,27 @@ For User Inteface , the system will have the following panels.
 2. User Panel  - Can see event,purchase tickets. See transaction history. 
 3. Merchant Panel (Optional) 
 
-#### Admin Panel 
+### Admin Panel 
 See how admin will work. 
-##### Workflow 
-Admin login to the system-->Admin can CRURD users | Admin can CRUD Events | 
+##### Admin Workflow 
+Admin login to the system-->Admin can CRURD users | Admin can CRUD Events | Admin can manage ads Campaign (optional) | 
+
+:Admin CRUD Users:Admin CRUD Events:Admin CRUD AdsCampaign:
+
+###### Required modules 
+- Admin Authentication
+- Admin Profile 
+- Admin CRUD users.
+- Admin CRUD Events.
+- Admin Statistics.
+
+
+### Users Panel
+This is how a normal user will work.
+##### Users Workflow
+
+
+
+##### 
 
 
