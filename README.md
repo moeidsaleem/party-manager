@@ -102,6 +102,17 @@ Admin login to the system-->Admin can CRURD users | Admin can CRUD Events | Admi
 This is how a normal user will work.
 ##### Users Workflow
 
+User sign up --> user login to the system -->  Manage Profile | Search event --> Place booking --> Checkout -->purchased | Booking history | 
+
+###### Required modules 
+- User Authentication
+- User Porfile 
+- Event Booking 
+
+
+### Ticketing 
+
+Whenever a event is created a eventId will be generated with it. Admin (creator) can CRUD Ticket types and set prices. 
 
 
 ##### 
